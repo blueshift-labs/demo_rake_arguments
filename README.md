@@ -299,13 +299,13 @@ So, that concludes or extensive article on how to add a lot of flexibility to ar
 * How you can plug this into simple rake tasks
 * How you can run *meta* rake tasks that call other tasks while keeping the flexbility for your input arguments
 
-The full code and working examples of this article are available [here on GitHub-TODO](#).
+The full code and working examples of this article are available [here on GitHub](https://github.com/blueshift-labs/demo_rake_arguments).
 
 We hope this article helps you to get something like this set up for your own stacks as well, and that it increases your productivity. If you have any comments, questions or suggestions, feel free to let us know!
 
 ### References
 
-* The code for this article can be found on [GitHub-TODO](#)
+* The code for this article can be found on [GitHub](https://github.com/blueshift-labs/demo_rake_arguments)
 * [docopt.rb documentation](https://github.com/docopt/docopt.rb)
 * [rake documentation](https://github.com/ruby/rake)
 * [Brief mention of the double dash issue with Rake](http://stackoverflow.com/a/5086648/1803313)
